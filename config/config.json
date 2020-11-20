@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "sgde",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "be8327663da3f2",
+    "password": "89647e5a",
+    "database": "heroku_653307792b58f7a",
+    "host": "us-cdbr-east-02.cleardb.com",
+    "dialect": "mysql"
+  },
+  "urlRoot":"https://sgde.herokuapp.com/"
+}
