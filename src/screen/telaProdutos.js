@@ -196,7 +196,7 @@ export default function telaProdutos ({navigation}){
                 <ScrollView>
           <View style={eProduto.container}>
             <View>
-                <Text>{codigoProd}</Text>
+                
                 <TextInput
                   style={eProduto.inpNomeP}
                   placeholder="Nome do Produto"
